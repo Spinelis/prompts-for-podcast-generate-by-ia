@@ -5,8 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de umpodcast de saúde mental, focado em qualidade de vida e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast com  foco em bancários. O podcast vai falar sobre dicas e sugestões sobre atividades de hobby que os bancários podem fazer para melhorar a qualidade de vida.
-                                                       |
+|  título  | Crie um título de umpodcast de saúde mental, focado em qualidade de vida e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast com  foco em bancários. O podcast vai falar sobre dicas e sugestões sobre atividades de hobby que os bancários podem fazer para melhorar a qualidade de vida.|
 | conteúdo | Faça um roteiro de um podcast de saúde mental, focado em qualidade de vida cujo nome é “Pensando fora da CAIXA” com  foco em bancários.
 O formato do roteiro deve ser:
 [INTRODUÇÃO]
